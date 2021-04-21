@@ -4,6 +4,6 @@
 
 ## TECNOLOGIAS USADAS 🖥
 
-<li>REACT</li>
-<li>NEXT</li>
+<li>REACTjs</li>
+<li>NEXTjs</li>
 <li>JSON</li>
